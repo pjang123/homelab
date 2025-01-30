@@ -3,7 +3,7 @@
 ## Project Overview
 This project demonstrates how to:
 1. Partition a drive to support dual-boot functionality with Windows 10 Pro and Ubuntu.
-2. Deploy 3 modded Minecraft servers using Pterodactyl and Docker.
+2. Deploy a modded Minecraft servers using Pterodactyl and Docker.
 3. Automate daily backups of server directories using a Bash script.
 
 ---
